@@ -1,2 +1,1 @@
 # infoarena
-infoarena
